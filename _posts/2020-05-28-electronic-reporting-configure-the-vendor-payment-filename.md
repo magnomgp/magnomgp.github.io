@@ -3,7 +3,6 @@ layout: post
 title: Electronic reporting – configure the vendor payment filename
 categories: [Electronic Reporting, Accounts Payable]
 ---
-## Why?
 As an accounts payable clerk, when I generate a vendor payment, I would like to export the **payment file with a specific name** to be easier to identify the payment.
 
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image1.webp)
@@ -65,5 +64,5 @@ After imported from LCS repository all the GER configurations, you should do the
 
 - Finally, you are ready to start to **generate payments** with the file name that you want.
     - In the method of payment, in the field “Export format configuration” you should have selected the format configuration created (CM_ISO20022 Credit Transfer (BE)).
-    
+
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image8.jpg)
