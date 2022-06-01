@@ -19,20 +19,20 @@ This post provides a **business process model** of how you can use the positive 
 
 ![](/images/prevent-cheque-fraud-with-positive-pay-files/image3.pmg)
 
-Generate a positive pay file for a single bank accout
+**Generate a positive pay file for a single bank accout**
 - Go to the **Bank accont**
 - Click on **Positive pay file**
 - Enter the **Cut-off date**
     - “enter the last check date to include in the positive pay file. All checks that haven’t been included in a positive pay file by the end of this check date are included in the file.”
 
-Generate a positive pay file for multiple bank accounts
+**Generate a positive pay file for multiple bank accounts**
 - Go to Cash and bank management > **Periodic tasks > Positive pay file**
 - Enter the **Format**
 - Select all Companies and Bank accounts
     - Or you can specify the company and bank account
 - Enter the **Cut-off date**
 
-Positive pay file summary inquiry
+**Positive pay file summary inquiry**
 - Go to Cash and bank management > Inquiries and reports > **Positive pay**
 - You can see the cheque details clicking on **Positive pay file details**
 
@@ -49,8 +49,8 @@ Positive pay file summary inquiry
 ![](/images/prevent-cheque-fraud-with-positive-pay-files/image7.png)
 
 - Go to Cash and bank management > Inquiries and reports > **Positive pay**
-- Select the positive pay file paid and click on **Enter confirmation**
-- Enter the **confirmation number** receive from the bank
+    - Select the positive pay file paid and click on **Enter confirmation**
+    - Enter the **confirmation number** receive from the bank
 
 ## Setups check-list
 - Set up a **positive pay format**
