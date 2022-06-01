@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Financial period close workspace – business case
-categories: [General Ledger]
+categories: [General Ledger, Workspace]
 ---
 ### Why?
-
 - We aren’t happy with the whiteboard where we **list all the month-end close tasks**. Just available physically in the office and permanently cleaned by the facility services team.
 
 ![](/images/financial_period_close_workspace-business_case/image1.webp)
