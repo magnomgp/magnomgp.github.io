@@ -3,85 +3,98 @@ layout: post
 title: Introducing Reverie - A ridiculously elegant Jekyll theme
 categories: [Miscellaneous, Jekyll]
 ---
+### Why?
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
+- We aren’t happy with the whiteboard where we **list all the month-end close tasks**. Just available physically in the office and permanently cleaned by the facility services team.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+![](/images/financial_period_close_workspace-business_case/image1.webp)
 
-![](/images/reverie-demo.png)
+- The Excel with the **month-end close tasks and responsible** send every month by email, without being an “online” file, was impossible to manage and not clear about what is happening.
 
-## Features overview
+![](/images/financial_period_close_workspace-business_case/image2.webp)
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+### Options
+1. Do nothing.
+2. Implement the **Financial period close workspace** and the associated configuration.
 
-<div style="text-align: center;">
- <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
-</div>
+![](/images/financial_period_close_workspace-business_case/image3.webp)
 
-## Using Reverie on GitHub Pages
+### Benefits
+> The Financial period close workspace lets you **track your financial closing processes across companies, areas, and people.** Depending on your view of the Financial period close workspace, you’ll see either of all tasks and statuses for a closing schedule, or just the tasks that are assigned to you.
 
-### Step 1) Fork Reverie to your User Repository
+## Financial period close workspace
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+How does it work?
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+![](/images/financial_period_close_workspace-business_case/image4.jpg)
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+- **Summary tiles** – give you a quick sumarize view.
 
-### Step 2) Customize and view your site
+![](/images/financial_period_close_workspace-business_case/image5.jpg)
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+- **Task and status view options** – different ways to show the task list and track the progress.
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+![](/images/financial_period_close_workspace-business_case/image6.jpg)
 
-### Step 3) Publish your first blog post
+- **Indicators are used for tasks** – an exclamation point icon indicates that the task is past due and a padlock icon indicates that the task depends.
 
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
+![](/images/financial_period_close_workspace-business_case/image7.jpg)
 
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+- **Task link** – a hyperlink to the page where the user should go to complete the task. 
 
-## Using Categories in Reverie
+![](/images/financial_period_close_workspace-business_case/image8.jpg)
 
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
+- **Edit, add and remove** – users with permissions to view all tasks can add tasks to the task list, edit tasks, or remove tasks from the task list.
 
-For adding single category:
+- **Completed date** – the tasks past due, the due date is highlighted in red.
 
-```md
-categories: JavaScript
-```
+![](/images/financial_period_close_workspace-business_case/image9.jpg)
 
-For adding multiple categories:
+- **Attachments** – could be used to add external documents or links. Links as power BI dashboards, bank dashboard, management report or other types of URLs.
 
-```md
-categories: [PHP, Laravel]
-```
+![](/images/financial_period_close_workspace-business_case/image10.jpg)
 
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
+Once completed the task, the user should check it √ . The dependencies will be updated.
 
-## RSS
+## All financial period close tasks list page
 
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
+This page is very useful if you need to export all the information for reporting or for audit purposes. You can see the “big picture”.
 
-## Sitemap
+![](/images/financial_period_close_workspace-business_case/image11.webp)
 
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+## Financial period close configuration page
 
-## License
+Here you are the list of things that you need to configure to use the workspace. You should go to General ledger > Period close > Financial period close configuration.
 
-MIT
+- **Closing roles** – could be organised by positions ( e.g. Accountant, AP Invoicing Clerk, etc).
+- **Resources** – assign the employees to the financial closing process with the respective closing role and view options.
+- **Task areas** – areas of action could be organised by team or modules (e.g. Accounts payable, Bank. etc).
+- **Calendars** – calendars could be organised by year or quarter. It should reflect the work-days and also holidays.
+- **Templates** – the most important part, the default “check-list”. There you should list the tasks organised by area, closing role, companies and task link. You also can set dependencies and associated attachments. Differents template could be created, for example, month-end template and quarter close template. Lastly, the due date could also be defined relating it with the period close date.
+- **Closing schedules** – the last set up to be ready the workspace. You should schedule all the closing periods in a list, for example, Jan20, Feb20, Mar20(Q1), etc. It will be based on the period close start date and close date (from Friday, Jan. 31 to Friday, Feb. 7).
 
+## Financial period close ideas
 
+### Use Power Automate to
+
+- Notify
+- Assignment questionnaires for audits
+- Attach documents
+- And more… be creative…
+Based on **business events** “alert rules” or getting a **custom entity** with all financial period close tasks.
+
+### Use Power BI to
+
+- Track the current status of the period close process and do performance analysis for insights into the efficiency. 
+Based on the **excel downloaded from the All financial period close tasks page** or connection the **custom entity**.
+
+For example, a dashboard to support the status meeting with the team.
+
+![](/images/financial_period_close_workspace-business_case/image12.webp)
+
+Some KPIs, all of them can be filtered by company.
+
+- Workload by Area (team)
+- Completed by Completed by (user)
+- Task by Responsible (workload by user)
+- Count Completed (tasks completed)
