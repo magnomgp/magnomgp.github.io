@@ -3,7 +3,7 @@ layout: post
 title: Electronic reporting – configure the vendor payment filename
 categories: [Electronic Reporting, Accounts Payable]
 ---
-Why?
+## Why?
 - As an accounts payable clerk, when I generate a vendor payment, I would like to export the **payment file with a specific name** to be easier to identify the payment.
 
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image1.webp)
