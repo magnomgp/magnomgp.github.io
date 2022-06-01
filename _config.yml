@@ -21,10 +21,10 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: magnomgpereira@gmail.com
+  email: magnomgpereira@outlook.pt
   facebook:
   flickr:
-  github: magnomgp.github.io
+  github: magnomgp
   instagram: 
   linkedin: magnomgp
   pinterest:
@@ -55,7 +55,7 @@ enforce_ssl: http://magnomgp.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://magnomgp.github.io/magnomgp.github.io"
+#baseurl: "http://magnomgp.github.io/magnomgp.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
