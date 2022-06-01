@@ -7,7 +7,7 @@ Prevent your business from fraudulent cheques. Although the cheque usage dropped
 
 ![](/images/prevent-cheque-fraud-with-positive-pay-files/image1.webp)
 
-##Positive pay overview
+## Positive pay overview
 This post provides a **business process model** of how you can use the positive pay in **Microsoft Dynamics 365 Finance.**
 > Positive pay is used to generate an electronic list of checks that can be presented to a bank. Positive pay files can help banks prevent check fraud. You set up positive pay to generate an electronic list of checks every time that checks are printed. Then, when a check is presented to the bank, the bank compares the check with the list of checks that you previously submitted. If the check matches a check in the list, the bank clears it. If the check doesn’t match a check in the list, the bank holds it for review.
 
