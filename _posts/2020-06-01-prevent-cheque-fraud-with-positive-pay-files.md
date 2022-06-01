@@ -12,9 +12,9 @@ This post provides a **business process model** of how you can use the positive 
 > Positive pay is used to generate an electronic list of checks that can be presented to a bank. Positive pay files can help banks prevent check fraud. You set up positive pay to generate an electronic list of checks every time that checks are printed. Then, when a check is presented to the bank, the bank compares the check with the list of checks that you previously submitted. If the check matches a check in the list, the bank clears it. If the check doesn’t match a check in the list, the bank holds it for review.
 
 ### 1st – Send the cheque to the vendor
-![](/images/deleting-data-with-data-management-tool/image2.png)
+![](/images/prevent-cheque-fraud-with-positive-pay-files/image2.png)
 ### 2nd – Generate a positive pay file
-![](/images/deleting-data-with-data-management-tool/image3.png)
+![](/images/prevent-cheque-fraud-with-positive-pay-files/image3.pmg)
 Generate a positive pay file for a single bank accout
 - Go to the **Bank accont**
 - Click on **Positive pay file**
@@ -31,13 +31,13 @@ Generate a positive pay file for multiple bank accounts
 Positive pay file summary inquiry
 - Go to Cash and bank management > Inquiries and reports > **Positive pay**
 - You can see the cheque details clicking on **Positive pay file details**
-![](/images/deleting-data-with-data-management-tool/image4.jpg)
-![](/images/deleting-data-with-data-management-tool/image5.jpg)
+![](/images/prevent-cheque-fraud-with-positive-pay-files/image4.jpg)
+![](/prevent-cheque-fraud-with-positive-pay-files/image5.jpg)
 
 ### 3rd – The bank compares the cheque with the positive pay file
-![](/images/deleting-data-with-data-management-tool/image6.png)
+![](/images/prevent-cheque-fraud-with-positive-pay-files/image6.png)
 ### 4th – Confirm a positive pay file
-![](/images/deleting-data-with-data-management-tool/image7.png)
+![](/images/prevent-cheque-fraud-with-positive-pay-files/image7.png)
 - Go to Cash and bank management > Inquiries and reports > **Positive pay**
 - Select the positive pay file paid and click on **Enter confirmation**
 - Enter the **confirmation number** receive from the bank

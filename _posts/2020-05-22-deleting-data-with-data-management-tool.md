@@ -19,7 +19,7 @@ How does it work?
 When you are creating an import project, there is an option in the *Import* tab called *Truncate entity data*. That field is off by default
 > Truncate entity data – control whether all records in an entity must be deleted before an import is perfomed.
 
-![](/images/deleting-data-with-data-management-tool/image2.jpeg)
+![](/images/deleting-data-with-data-management-tool/image2.jpg)
 
 Once you have created the project and selected the field, the system will display a warning about the impact of this field.
 > Choosing to truncate entity data will result in deletion of data in the selected data entities before new data is imported.
@@ -30,7 +30,7 @@ There is two option on this step, in my opinion.
 - Or upload a **data file with headers and lines**. First, the system will delete all data. After it will create the new ones present in the file lines.
 So to do that you should click on *add file*, select the *entity name*, click on *upload*, and select the data file.
 
-![](/images/deleting-data-with-data-management-tool/image3.jpeg)
+![](/images/deleting-data-with-data-management-tool/image3.jpg)
 
 ### 3rd – Finally, you can import the data file to see the results.
 Never do it directly in the production environment.

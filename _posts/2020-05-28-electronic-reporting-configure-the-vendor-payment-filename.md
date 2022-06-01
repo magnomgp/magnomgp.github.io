@@ -21,49 +21,42 @@ NURG_ISO20022 Credit transfer_280520201601
 - “280520200555” – date and time set in the ER parameters. Dynamic output.
 
 After imported from LCS repository all the GER configurations, you should do the following steps to achieve the to be filename purposed.
-1. Go to **Electronic reporting workspace** > Reporting configurations > Payment model > ISO20022 Credit transfer > ISO20022 Credit transfer (CE), here CE correspond to country extension;
-2. Click on **Create configuration**;
-3. Select **Derive from Name: ISO20022 Credit Transfer (CE), Microsoft**;
-4. Enter a **Name and Description**. E.g. Name: CM_ISO20022 Credit Transfer CE and description: Core Model ISO20022 Credit Transfer CE.
-5. **Configuration provider** will be automatically filled in with the configuration provider that you have created.
-5.1 In case you didn’t have created:
-5.1.1. Go to **Organization administration** > Electronic reporting > Configuration provider table;
-5.1.1.1. Click on New.
-5.1.1.2. Enter your company name in the name column;
-5.1.1.3. Enter your company internet address in the internet address column.
-5.1.2. Go to **Electronic reporting workspace** > Configuration providers;
-5.1.2.1. Click on the provider created and set as active.
-6. Click on **Create configuration.**
+- Go to **Electronic reporting workspace** > Reporting configurations > Payment model > ISO20022 Credit transfer > ISO20022 Credit transfer (CE), here CE correspond to country extension;
+- Click on **Create configuration**;
+- Select **Derive from Name: ISO20022 Credit Transfer (CE), Microsoft**;
+- Enter a **Name and Description**. E.g. Name: CM_ISO20022 Credit Transfer CE and description: Core Model ISO20022 Credit Transfer CE.
+- **Configuration provider** will be automatically filled in with the configuration provider that you have created.
+    - In case you didn’t have created:
+        - Go to **Organization administration** > Electronic reporting > Configuration provider table;
+            - Click on New.
+            - Enter your company name in the name column;
+            - Enter your company internet address in the internet address column.
+        - Go to **Electronic reporting workspace** > Configuration providers;
+            - Click on the provider created and set as active.
+- Click on **Create configuration.**
+![](/images/electronic-reporting-configure-the-vendor-payment-filename/image2.jpg)
 
-![](/images/electronic-reporting-configure-the-vendor-payment-filename/image2.jpeg)
+- After the configuration created, you should click on **Designer**.
+![](/images/electronic-reporting-configure-the-vendor-payment-filename/image3.jpg)
 
-7. After the configuration created, you should click on **Designer**.
+- Select the **XML Header** and click on **Mapping**.
+![](/images/electronic-reporting-configure-the-vendor-payment-filename/image4.jpg)
 
-![](/images/electronic-reporting-configure-the-vendor-payment-filename/image3.jpeg)
+- On the bottom of the page, in the right side, click on **Filename** edit.
+![](/images/electronic-reporting-configure-the-vendor-payment-filename/image5.jpg)
 
-8. Select the **XML Header** and click on **Mapping**.
+- And now, on the Formula side, you can enter the formula that you want.
+    - You have different ways how to use the formula designer. More details here: [Formula designer in Electronic reporting (ER)](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/analytics/general-electronic-reporting-formula-designer)
+    - On my example, I am using the advanced formula editor.
+- On the left, you have the Data Soure.
+- On the right, you have all the Formulas available.
+- Once you have entered the formula, you can test and save it.
+    - More details about formula language and functions: [Electronic reporting formula language](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/analytics/er-formula-language?toc=%2Fdynamics365%2Fcommerce%2Ftoc.json)
+![](/images/electronic-reporting-configure-the-vendor-payment-filename/image6.jpg)
 
-![](/images/electronic-reporting-configure-the-vendor-payment-filename/image4.jpeg)
+- You should change the status to **Complete**. 
+![](/images/electronic-reporting-configure-the-vendor-payment-filename/image7.jpg)
 
-9. On the bottom of the page, in the right side, click on **Filename** edit.
-
-![](/images/electronic-reporting-configure-the-vendor-payment-filename/image5.jpeg)
-
-10. And now, on the Formula side, you can enter the formula that you want.
-10.1. You have different ways how to use the formula designer. More details here: [Formula designer in Electronic reporting (ER)](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/analytics/general-electronic-reporting-formula-designer)
-10.2. On my example, I am using the advanced formula editor.
-11. On the left, you have the Data Soure.
-12. On the right, you have all the Formulas available.
-13.Once you have entered the formula, you can test and save it.
-13.1 More details about formula language and functions: [Electronic reporting formula language](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/analytics/er-formula-language?toc=%2Fdynamics365%2Fcommerce%2Ftoc.json)
-
-![](/images/electronic-reporting-configure-the-vendor-payment-filename/image6.jpeg)
-
-14. You should change the status to **Complete**. 
-
-![](/images/electronic-reporting-configure-the-vendor-payment-filename/image7.jpeg)
-
-15. Finally, you are ready to start to **generate payments** with the file name that you want.
-15.1. In the method of payment, in the field “Export format configuration” you should have selected the format configuration created (CM_ISO20022 Credit Transfer (BE)).
-
-![](/images/electronic-reporting-configure-the-vendor-payment-filename/image8.jpeg)
+- Finally, you are ready to start to **generate payments** with the file name that you want.
+    - In the method of payment, in the field “Export format configuration” you should have selected the format configuration created (CM_ISO20022 Credit Transfer (BE)).
+![](/images/electronic-reporting-configure-the-vendor-payment-filename/image8.jpg)
