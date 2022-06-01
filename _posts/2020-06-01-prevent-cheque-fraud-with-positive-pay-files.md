@@ -3,7 +3,7 @@ layout: post
 title: Prevent cheque fraud with positive pay files
 categories: [Cash and bank management, Accounts Payable]
 ---
-Prevent your business from fraudulent cheques. Although the cheque usage dropped or has been phase-out, registered fraud has increased according to [UK Finance](https://www.ukfinance.org.uk/system/files/Fraud-The-Facts-2020-FINAL-ONLINE-18-March.pdf).
+Prevent your business from **fraudulent cheques**. Although the cheque usage dropped or has been phase-out, registered fraud has increased according to [UK Finance](https://www.ukfinance.org.uk/system/files/Fraud-The-Facts-2020-FINAL-ONLINE-18-March.pdf).
 
 ![](/images/prevent-cheque-fraud-with-positive-pay-files/image1.webp)
 

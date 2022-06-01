@@ -4,7 +4,7 @@ title: Deleting data with data management tool
 categories: [Data management]
 ---
 ### Why?
-- You have imported the zip/postal codes incorrectly. Now you want to delete them. However, you can’t delete them in mass in the form.
+- You have imported the zip/postal codes incorrectly. Now you want to delete them. However, **you can’t delete them in mass in the form**.
 - Or you want to delete data from another table that there is no Excel add-in data connector.
 
 ![](/images/deleting-data-with-data-management-tool/image1.webp)
