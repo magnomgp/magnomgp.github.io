@@ -12,13 +12,13 @@ categories: [General Ledger, Workspace]
 
 ![](/images/financial_period_close_workspace-business_case/image2.webp)
 
-### Options
+## Options
 1. Do nothing.
 2. Implement the **Financial period close workspace** and the associated configuration.
 
 ![](/images/financial_period_close_workspace-business_case/image3.webp)
 
-### Benefits
+## Benefits
 > The Financial period close workspace lets you **track your financial closing processes across companies, areas, and people.** Depending on your view of the Financial period close workspace, you’ll see either of all tasks and statuses for a closing schedule, or just the tasks that are assigned to you.
 
 ## Financial period close workspace
