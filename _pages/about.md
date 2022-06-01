@@ -4,26 +4,14 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+I have 6+ years of experience in ERP implementations. I have worked at myPartner, a Microsoft partner, and FARFETCH Group, a global platform for luxury.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+First, I started by implementing NAV and later AX/F&O, the two Microsoft ERPs. The projects occurred in different locations, such as Portugal, the United Kingdom, the United States, and Brazil.
 
-## Features
+Presently I am a Dynamics 365 Finance Certified Functional Consultant at LS Retail.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+I hold a B.Sc. in Business Administration from the school of Economics and Management of the University of Porto.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+[LinkedIn](https://www.linkedin.com/in/magnomgp/)
+
+![](/images/certified.jfif)
