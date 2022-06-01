@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
-categories: [Miscellaneous, Jekyll]
+title: Financial period close workspace – business case
+categories: [General Ledger]
 ---
 ### Why?
 
