@@ -4,7 +4,7 @@ title: Electronic reporting – configure the vendor payment filename
 categories: [Electronic Reporting, Accounts Payable]
 ---
 ## Why?
-- As an accounts payable clerk, when I generate a vendor payment, I would like to export the **payment file with a specific name** to be easier to identify the payment.
+As an accounts payable clerk, when I generate a vendor payment, I would like to export the **payment file with a specific name** to be easier to identify the payment.
 
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image1.webp)
 
@@ -34,15 +34,19 @@ After imported from LCS repository all the GER configurations, you should do the
         - Go to **Electronic reporting workspace** > Configuration providers;
             - Click on the provider created and set as active.
 - Click on **Create configuration.**
+
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image2.jpg)
 
 - After the configuration created, you should click on **Designer**.
+
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image3.jpg)
 
 - Select the **XML Header** and click on **Mapping**.
+
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image4.jpg)
 
 - On the bottom of the page, in the right side, click on **Filename** edit.
+
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image5.jpg)
 
 - And now, on the Formula side, you can enter the formula that you want.
@@ -52,11 +56,14 @@ After imported from LCS repository all the GER configurations, you should do the
 - On the right, you have all the Formulas available.
 - Once you have entered the formula, you can test and save it.
     - More details about formula language and functions: [Electronic reporting formula language](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/analytics/er-formula-language?toc=%2Fdynamics365%2Fcommerce%2Ftoc.json)
+
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image6.jpg)
 
 - You should change the status to **Complete**. 
+
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image7.jpg)
 
 - Finally, you are ready to start to **generate payments** with the file name that you want.
     - In the method of payment, in the field “Export format configuration” you should have selected the format configuration created (CM_ISO20022 Credit Transfer (BE)).
+    
 ![](/images/electronic-reporting-configure-the-vendor-payment-filename/image8.jpg)
