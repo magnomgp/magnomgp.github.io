@@ -11,10 +11,10 @@ Role-based security assigns access to security roles, not individual users. Thes
 Out of the box, it offers you 200+ unique security roles that cover a variety of business processes. Think Accounting Manager, Accounting Supervisor, Accounts Payable Manager, Accounts Payable Clerk, and many more.
 
 ![](/images/from-implementation-to-audit-navigating-SOX-compliance/user-role-assignments.png)
-<sub>The User role assignments report generates a view of the current user role assignments in your system</sub>
+>The User role assignments report generates a view of the current user role assignments in your system
 
 ![](/images/from-implementation-to-audit-navigating-SOX-compliance/security-duty-assignments.png)
-<sub>The Security duty assignments report provides a view of all the duties contained within a role</sub>
+>The Security duty assignments report provides a view of all the duties contained within a role
 
 Additional security reports can be generated to enhance the audit of system security. One such report is the Security Role Access Report. It shows you the actual permissions for each security role in an easy-to-understand way. This report breaks down the permissions by type and includes all the sub-roles, duties, and privileges within the main role.
 
@@ -26,7 +26,7 @@ User sign-in/sign-out auditing is enabled, logging sessions and allowing adminis
 Dynamics 365 finance and operations apps also incorporates a segregation of duties feature. This empowers a security admin to establish rules to ensure that distinct tasks are carried out by different users, a principle known as segregation of duties. For instance, an accounts payable clerk may not be allowed to both create vendors and process payments. The system will raise a flag if such a conflict arises.
 
 ![](/images/from-implementation-to-audit-navigating-SOX-compliance/segregation-of-duties-conflicts.png)
-<sub>If a security role's definition or a user's role assignments go against the rules, it's noted as a conflict. These conflicts need to be sorted out by the administrator</sub>
+>If a security role's definition or a user's role assignments go against the rules, it's noted as a conflict. These conflicts need to be sorted out by the administrator
 
 ## Embedded workflow capabilities
 A workflow embodies a business process, showing how a document moves through the system, including tasks, decisions, and approvals. For example, a workflow for processing expense reports or to create a request for new user.
