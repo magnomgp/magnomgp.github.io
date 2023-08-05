@@ -44,6 +44,11 @@ Alerts constitute a notification system for significant system events, offering 
 
 Change-based and due date alerts can be set up to utilize business events, serving as a mechanism to notify or activate external applications and systems.
 
+## Electronic reporting
+You can utilize electronic reporting to generate the necessary SOX reports without needing to involve development. The setup can be managed by a super user, and you don't need a developer for configuration. Instead of dealing with code, you configure formats, making it faster and easier to create and adjust formats for electronic documents.
+
+ER currently supports the TEXT, XML, JSON, PDF, Microsoft Word, Microsoft Excel, and OPENXML worksheet formats.
+
 **Even though they're built-in features, they need setup. Don't wait for audits – consider SOX requirements right from the start of implementation.**
 
 **Gathering solid requirements sets the stage for a successful implementation journey.**
