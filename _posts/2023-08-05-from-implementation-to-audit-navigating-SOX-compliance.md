@@ -10,6 +10,10 @@ Role-based security assigns access to security roles, not individual users. Thes
 
 Out of the box, it offers you 200+ unique security roles that cover a variety of business processes. Think Accounting Manager, Accounting Supervisor, Accounts Payable Manager, Accounts Payable Clerk, and many more.
 
+Microsoft recognizes the importance of adapting these security roles to individual needs. Therefore, creating new security roles is entirely possible.
+
+### Reports and inquiries
+
 ![](/images/from-implementation-to-audit-navigating-SOX-compliance/user-role-assignments.png)
 _The User role assignments report generates a view of the current user role assignments in your system_
 
@@ -17,8 +21,6 @@ _The User role assignments report generates a view of the current user role assi
 _The Security duty assignments report provides a view of all the duties contained within a role_
 
 Additional security reports can be generated to enhance the audit of system security. One such report is the Security Role Access Report. It shows you the actual permissions for each security role in an easy-to-understand way. This report breaks down the permissions by type and includes all the sub-roles, duties, and privileges within the main role.
-
-Microsoft recognizes the importance of adapting these security roles to individual needs. Therefore, creating new security roles is entirely possible.
 
 User sign-in/sign-out auditing is enabled, logging sessions and allowing administrators access to audit logs via the User log page.
 
