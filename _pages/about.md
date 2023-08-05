@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hi, I'm Magno. I'm a Dynamics 365 Finance Certified Functional Consultant. 
+Hey there, I'm Magno, and I wear the hat of a Dynamics 365 Finance and SCM Certified Functional Consultant, and I'm also a Solution Architect Expert.
 
-I created this blog to share knowledge and experiences. Experiences and needs that I face throughout my Dynamics 365 projects. Without any defined frequency, I'm publishing posts about different areas.
+Think of my blog as a treasure chest where I share not only what I know but also the real-world moments and hurdles I encounter while diving into Dynamics 365 projects. There's no set schedule for my posts – they pop up as I navigate through different aspects.
 
-Feel free to reach me on <a href="https://www.linkedin.com/in/magnomgp/" rel="nofollow noopener noreferrer me"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a>. 
+Feel like a chat? Catch me on [LinkedIn](https://www.linkedin.com/in/magnomgp) Let's journey through the Dynamics 365 realm together!
