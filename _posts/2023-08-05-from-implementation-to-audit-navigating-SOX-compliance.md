@@ -20,6 +20,8 @@ Dynamics 365 finance and operations apps also incorporates a segregation of duti
 ## Embedded workflow capabilities
 A workflow embodies a business process, showing how a document moves through the system, including tasks, decisions, and approvals. For example, a workflow for processing expense reports or to create a request for new user.
 
+![](/images/from-implementation-to-audit-navigating-SOX-compliance/create-a-request-for-new-user.jpg)
+
 ## Database logging
 Database logging lets you track specific changes to tables and fields in finance and operations apps. This includes inserts, updates, deletes, and renaming key operations. When you enable logging for a table or field, the system stores a record of every change in the database log table. It's applicable to particular tables housing sensitive data.
 
