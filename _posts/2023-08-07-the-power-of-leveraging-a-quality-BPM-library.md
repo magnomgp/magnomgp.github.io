@@ -48,3 +48,5 @@ You can use task recordings to create task guides that are an **important compon
 _You can write your description and annotations to explain why the user is doing the step or to give additional context_
 
 **It is absolutely crucial that you recognize the immense value of implementing BPM (Business Process Management) for long-term benefits that extend to future rollouts. With a systematic approach that involves implementing all necessary processes, documenting them thoroughly, conducting associated tests, and providing comprehensive training material for users, you can establish a rock-solid system that leaves nothing to chance. This is not an option, but a necessity, if you want to stay ahead of the curve and achieve sustained success.**
+
+For more information, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/magnomgp).
