@@ -21,7 +21,7 @@ _Here is an example of how it can be structured_
 
 You now possess the guide for the **workshops**. You can confidently start gathering the necessary requirements to carry out the **fit-gap analysis** at a later time.
 
-## Prepare
+## Implement
 Now that you have completed the requirements gathering, conducted the fit and gap analysis, and addressed the gaps, it is time to consider the testing strategy.
 
 You can rely on BPM once again to be your ally.
@@ -40,6 +40,7 @@ _Add the test case to a test plan and test suite_
 ![](/images/the-power-of-leveraging-a-quality-BPM-library/add-dashboard-chart.png)
 _Test plan dashboard_
 
+## Prepare
 Now it's time for **user readiness**. You have a BPM library with attached task recorders to provide hands-on guidance for the users to prepare.
 
 You can use task recordings to create task guides that are an **important component of the Help experience**. These guides provide a structured and interactive experience for users to complete business processes step-by-step. Each step is accompanied by a pop-up prompt or "bubble" that highlights the relevant UI element and provides instructions on how to interact with it, such as "Click here" or "Enter a value in this field." Additionally, you can save task recordings as Word documents to create printable training guides easily.
