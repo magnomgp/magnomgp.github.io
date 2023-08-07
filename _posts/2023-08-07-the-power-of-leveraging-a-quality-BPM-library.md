@@ -3,6 +3,13 @@ layout: post
 title: The power of leveraging a quality BPM library
 categories: [Lifecycle Services]
 ---
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://magnomgp.github.io/the-power-of-leveraging-a-quality-BPM-library/" />
+<meta property="og:title" content="The power of leveraging a quality BPM library" />
+<meta property="og:description" content="The choice of a robust business process library can shape the entire implementation journey. From initial workshops, through testing, to user training, this library remains a constant companion. It documents processes, captures tests and acceptance, and continues to shine during rollouts for companies with similar needs." />
+<meta property="og:image" content=![](/images/the-power-of-leveraging-a-quality-BPM-library/bpm-import.png) />
+
 The choice of a robust business process library can shape the entire implementation journey. From initial workshops, through testing, to user training, this library remains a constant companion. It documents processes, captures tests and acceptance, and continues to shine during rollouts for companies with similar needs.
 
 ## Business process modeler (BPM)
