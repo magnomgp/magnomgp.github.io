@@ -10,7 +10,7 @@ Role-based security assigns access to security roles, not individual users. Thes
 
 Out of the box, it offers you 200+ unique security roles that cover a variety of business processes. Think Accounting Manager, Accounting Supervisor, Accounts Payable Manager, Accounts Payable Clerk, and many more.
 
-Microsoft recognizes the importance of adapting these security roles to individual needs. Therefore, creating new security roles is entirely possible.
+Microsoft recognizes the importance of adapting these security roles to individual needs. Therefore, creating new security roles is entirely possible. And with the help of Extensible Data Security (XDS) policies, developers can add an extra layer to role-based security by limiting access to table records based on specific security rules.
 
 ### Reports and inquiries
 
