@@ -18,3 +18,8 @@ When the next rollout comes around, we just circle back to this core model libra
 After that, we can turn to data management to put together data packages containing the core model's configuration data. This also involves crafting templates for migrating both master and transactional data. To keep things organized, it's important to set up a data entities management matrix. This matrix helps us track and plan the application of the data packages.
 
 Another approach to gather the configuration involves setting up a designated DAT legal entity. This entity serves as a storage hub for configuration data. We can then make use of the "Copy into legal entity" feature within Data Management. This lets us efficiently transfer the required settings.
+
+By utilizing this streamlined rollout toolkit, we not only save time but also ensure that the rollouts adhere to global directives. At this stage, the benefits of economies of scale begin to manifest themselves.
+
+## Local requirements
+Certain regions might necessitate unique legal configurations that need to be addressed individually during each rollout. This could involve customizations too, if necessary. At this time, seeking assistance from local experts becomes crucial. It's vital to ensure that during the testing phase, these new local requirements are thoroughly tested alongside the core model processes. This helps determine whether the core model's configuration could be affected by these changes.
