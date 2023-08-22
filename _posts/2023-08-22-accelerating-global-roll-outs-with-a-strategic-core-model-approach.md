@@ -10,6 +10,8 @@ Developing a core model strategy involves pinpointing a specific region or legal
 
 The chosen legal entity for reference should originate from a region with minimal customizations and specific legal demands, maximizing its core attributes. By establishing this pilot, we not only define a precise implementation script but also simplify estimating rollout schedules. Moreover, this practice streamlines subsequent implementations, as the core model toolkit will readily apply pre-existing processes and configurations, akin to a standard copy-and-paste approach.
 
+![](/images/accelerating-global-roll-outs-with-a-strategic-core-model-approach/global.jpg)
+
 ## Toolkit
 With Dynamics 365 Finance and SCM, we can use their built-in tools to create a toolkit for the core model deployment. First up, we employ the **Business Process Modeler (BPM)**, which I discussed in my recent post "[The Power of Leveraging a Quality BPM Library](https://magnomgp.github.io/the-power-of-leveraging-a-quality-BPM-library/)" – check it out for more details. In a nutshell, we document all the standard core processes in BPM, including task records for user training and test case generation.
 
