@@ -23,3 +23,7 @@ By utilizing this streamlined rollout toolkit, we not only save time but also en
 
 ## Local requirements
 Certain regions might necessitate unique legal configurations that need to be addressed individually during each rollout. This could involve customizations too, if necessary. At this time, seeking assistance from local experts becomes crucial. It's vital to ensure that during the testing phase, these new local requirements are thoroughly tested alongside the core model processes. This helps determine whether the core model's configuration could be affected by these changes.
+
+**Embracing a core model strategy alongside a well-crafted toolkit maximizes the benefits of economies of scale, resulting in smoother, faster, and more cost-effective subsequent implementations.**
+
+For more information, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/magnomgp).
