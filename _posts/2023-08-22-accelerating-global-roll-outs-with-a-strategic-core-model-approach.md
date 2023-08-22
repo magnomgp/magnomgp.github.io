@@ -14,3 +14,7 @@ The chosen legal entity for reference should originate from a region with minima
 With Dynamics 365 Finance and SCM, we can use their built-in tools to create a toolkit for the core model deployment. First up, we employ the Business Process Modeler (BPM), which I discussed in my recent post "[The Power of Leveraging a Quality BPM Library](https://magnomgp.github.io/the-power-of-leveraging-a-quality-BPM-library/)" – check it out for more details. In a nutshell, we document all the standard core processes in BPM, including task records for user training and test case generation.
 
 When the next rollout comes around, we just circle back to this core model library. We connect it to the specific implementation and legal entity. It's like hitting the streamline button – from business processes to whipping up training materials and running the necessary tests.
+
+After that, we can turn to data management to put together data packages containing the core model's configuration data. This also involves crafting templates for migrating both master and transactional data. To keep things organized, it's important to set up a data entities management matrix. This matrix helps us track and plan the application of the data packages.
+
+Another approach to gather the configuration involves setting up a designated DAT legal entity. This entity serves as a storage hub for configuration data. We can then make use of the "Copy into legal entity" feature within Data Management. This lets us efficiently transfer the required settings.
