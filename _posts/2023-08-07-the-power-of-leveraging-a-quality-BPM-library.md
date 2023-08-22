@@ -16,7 +16,7 @@ You have the option to begin your project with a pre-existing library of process
 ![](/images/the-power-of-leveraging-a-quality-BPM-library/bpm-import.png)
 _When you click on "Import from Excel," the system lets you download a template that shows the acceptable Excel structure_
 
-Once the process library is linked to the project according to its scope, it can synchronize with Axure DevOps to **generate the work item structure automatically**.
+Once the process library is linked to the project according to its scope, it can synchronize with Azure DevOps to **generate the work item structure automatically**.
 
 ![](/images/the-power-of-leveraging-a-quality-BPM-library/bpm-devops.png)
 _Here is an example of how it can be structured_
