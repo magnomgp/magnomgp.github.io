@@ -17,9 +17,9 @@ Once we've got a lead, we can keep its info updated and **go through the qualifi
 
 When a lead transforms into an opportunity, it **opens the door to capturing additional sales-related details throughout the sales process**, including competitor information and SWOT analysis.
 
-In the management of your opportunities, you have the option to assign probability percentages and prognosis ratings to each opportunity. This allows you to closely follow the likelihood that the opportunity will convert into a project quotation.
+In the management of your opportunities, you have the option to **assign probability percentages and prognosis ratings to each opportunity**. This allows you to closely follow the likelihood that the opportunity will **convert into a project quotation**.
 
-After **creating and submitting your project quotes**, stay up-to-date on whether you secured the opportunity and what factors influenced the decision.
+After creating and submitting your project quotes, stay up-to-date on whether you secured the opportunity and what factors influenced the decision.
 
 ![](/images/project-to-profit-managing-opportunities/opportunities.png)
 
