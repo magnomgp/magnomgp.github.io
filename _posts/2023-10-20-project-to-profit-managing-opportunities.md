@@ -26,3 +26,5 @@ After creating and submitting your project quotes, stay up-to-date on whether yo
 The initial business process area, managing project opportunities, is often carried out externally within a CRM solution and is later integrated with Dynamics 365 finance and operations. Nevertheless, here we have some fundamental functionalities that can be combined, for instance, with a cool Power App or Portal to support the sales team.
 
 **Project-to-profit will now manage project quotations as the second business process area.**
+
+![](/images/project-to-profit-managing-opportunities/appcode2flow.png)
