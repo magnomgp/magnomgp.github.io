@@ -27,11 +27,11 @@ Here's an example, a product was created with the following name: _Fresh Fruit P
 
 ![](/images/streamline-product-master-data-translations-through-automation/product.png)
 
-The flow was successfully triggered.
+The flow successfully triggered once the product was created.
 
 ![](/images/streamline-product-master-data-translations-through-automation/run1.png)
 
-The translations were successfully completed, and the product translation record was created in D365 SCM.
+The translations were successfully done, and the product translation record was created in D365 SCM as part of the flow.
 
 ![](/images/streamline-product-master-data-translations-through-automation/run2.png)
 
