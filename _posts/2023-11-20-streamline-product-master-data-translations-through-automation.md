@@ -7,6 +7,8 @@ categories: [Product information management, Power automate, AI builder]
 
 The deal is, whenever the master data expert creates a new product in D365 SCM, they want the **product and description translations to just auto-populate or get suggested automatically**.
 
+## Configuration
+
 The **Power Automate flow kicks in when a business event happens in D365 SCM**. We're talking about using the Alerts category specifically, with the business event called 'When an alert rule is triggered.' To make this work, setting up an Alert rule configuration in D365 SCM is needed for this type of business event.
 
 ![](/images/streamline-product-master-data-translations-through-automation/alerts.png)
@@ -15,6 +17,18 @@ To send alerts outside your organization, use the business events framework. Whe
 
 ![](/images/streamline-product-master-data-translations-through-automation/flow.png)
 
-After the flow is triggered, we gather the product's name and description. Then, we put the AI Builder prebuilt model to work, translating from English to Spanish and French. Finally, we create the translated product records in D365 SCM.
+After the flow is triggered, we get the product's name and description. Then, we put the AI Builder prebuilt model to work, translating from English to Spanish and French. Finally, we create the translated product records in D365 SCM.
+
+![](/images/streamline-product-master-data-translations-through-automation/product.png)
+
+## Run
+
+Here's an example, a product was created with the following name and description.
+ Fresh Fruit Platter
+ A selection of seasonal fruits. Cut in perfect slices. Refresh your self with these delicious bites.
 
 ![](/images/streamline-product-master-data-translations-through-automation/flow1.png)
+
+The flow was successfully triggered.
+
+![](/images/streamline-product-master-data-translations-through-automation/run1.png)
