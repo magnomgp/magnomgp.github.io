@@ -39,4 +39,4 @@ The translations were successfully done, and the product translation record was 
 
 ![](/images/streamline-product-master-data-translations-through-automation/run4.png)
 
-And that's the process! This demonstrated an efficient low-code solution to automate product translations whenever a new one is added.
+**And that's the process! This demonstrated an efficient low-code solution to automate product translations whenever a new one is added.**
