@@ -24,8 +24,8 @@ After the flow is triggered, we get the product's name and description. Then, we
 ## Run
 
 Here's an example, a product was created with the following name and description.
- Fresh Fruit Platter
- A selection of seasonal fruits. Cut in perfect slices. Refresh your self with these delicious bites.
+_Fresh Fruit Platter_
+_A selection of seasonal fruits. Cut in perfect slices. Refresh your self with these delicious bites._
 
 ![](/images/streamline-product-master-data-translations-through-automation/product.png)
 
