@@ -19,7 +19,7 @@ To send alerts outside your organization, use the business events framework. Whe
 
 After the flow is triggered, we get the product's name and description. Then, we put the AI Builder prebuilt model to work, translating from English to Spanish and French. Finally, we create the translated product records in D365 SCM.
 
-![](/images/streamline-product-master-data-translations-through-automation/flow2.png)
+![](/images/streamline-product-master-data-translations-through-automation/flow1.png)
 
 ## Run
 
