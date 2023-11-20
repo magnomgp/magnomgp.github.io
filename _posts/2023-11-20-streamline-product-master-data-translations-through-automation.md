@@ -32,3 +32,11 @@ _A selection of seasonal fruits. Cut in perfect slices. Refresh your self with t
 The flow was successfully triggered.
 
 ![](/images/streamline-product-master-data-translations-through-automation/run1.png)
+
+The translations were successfully completed, and the product translation record was created.
+
+![](/images/streamline-product-master-data-translations-through-automation/run2.png)
+
+![](/images/streamline-product-master-data-translations-through-automation/run3.png)
+
+![](/images/streamline-product-master-data-translations-through-automation/run4.png)
