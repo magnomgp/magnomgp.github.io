@@ -38,3 +38,5 @@ The translations were successfully completed, and the product translation record
 ![](/images/streamline-product-master-data-translations-through-automation/run3.png)
 
 ![](/images/streamline-product-master-data-translations-through-automation/run4.png)
+
+And that's the process! This demonstrated an efficient low-code solution to automate product translations whenever a new one is added.
