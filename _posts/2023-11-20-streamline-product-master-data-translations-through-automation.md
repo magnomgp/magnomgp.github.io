@@ -31,7 +31,7 @@ The flow was successfully triggered.
 
 ![](/images/streamline-product-master-data-translations-through-automation/run1.png)
 
-The translations were successfully completed, and the product translation record was created.
+The translations were successfully completed, and the product translation record was created in D365 SCM.
 
 ![](/images/streamline-product-master-data-translations-through-automation/run2.png)
 
