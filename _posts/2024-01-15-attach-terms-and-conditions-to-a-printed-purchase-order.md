@@ -3,7 +3,7 @@ layout: post
 title: Attach terms and conditions to a printed purchase order 
 categories: [Business document management, Electronic reporting]
 ---
-Business document management is a useful feature built on top of the Electronic Reporting (ER) framework. It is a **no-code/low-code solution** that assists businesses in editing documents according to their requirements. Users can start from a Microsoft template or create a document from scratch.
+Business document management is a useful feature built on top of the Electronic Reporting (ER) framework. It is a **no-code/low-code solution** that assists business users in editing documents according to their requirements. Users can start from a Microsoft template or create a document from scratch.
 
 One common requirement in my project experience is to attach Terms and Conditions (TCs) to a printed purchase order or invoice. Rather than customizing SSRS reports, we can leverage the capabilities of the Electronic Reporting framework to extend the Business document and achieve this without any code changes.
 
