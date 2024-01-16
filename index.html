@@ -7,11 +7,9 @@ layout: default
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
-        <!-- #region -->
           <div>
-            <!-- p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+            <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
           </div>
-        <!-- #endregion -->
         <div class="post-tags">
           {% if post %}
             {% assign categories = post.categories %}
