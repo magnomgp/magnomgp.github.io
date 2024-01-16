@@ -7,6 +7,7 @@ name: Magno Pereira Dynamics 365 Blog
 
 # Name of the author
 author: Magno Pereira
+locale: "en-US"
 
 # Short bio or description (displayed in the header)
 title: Magno Pereira Dynamics 365 Finance and SCM Blog
@@ -50,6 +51,7 @@ google_analytics_ga4: G-1RQCNPHWKS
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
 url: http://magnomgp.github.io/
+baseurl: ""
 enforce_ssl: http://magnomgp.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
