@@ -10,7 +10,7 @@ layout: default
           <div>
             <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
           </div>
-        <div class="post-tags">
+        <!--div class="post-tags">
           {% if post %}
             {% assign categories = post.categories %}
           {% else %}
@@ -20,7 +20,7 @@ layout: default
             <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
             {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
-        </div>
+        </div-->
       </a>
       <div class="entry">
         {{ post.excerpt }}
