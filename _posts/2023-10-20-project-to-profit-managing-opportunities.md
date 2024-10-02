@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Project-to-profit - managing opportunities
-categories: [Project management and accounting, Sales and marketing]
+# layout: post
+# title: Project-to-profit - managing opportunities
+# categories: [Project management and accounting, Sales and marketing]
 ---
 The **project management and accounting module** is like a new planet in Dynamics 365 finance and operations, but it's got a fleet of space shuttles connecting it to the rest of our system galaxy. The whole project-to-profit process is pretty big. It all kicks off in the **first business process area** where we deal with **project opportunities**, triggering the start of a project and the beginning of a pipeline.
 
