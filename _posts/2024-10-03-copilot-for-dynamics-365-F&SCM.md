@@ -15,7 +15,7 @@ Is it good to go? Can we push its limits, since we like to extend the standard s
 
 Here is what we have found, and we have been testing what's already out there. Feel free to let me know what you're thinking of trying out and what you've already played around with. 
 
-## Copilot for Dynamics 365 Finance and Supply Chain Management app
+## Copilot for Dynamics 365 F&SCM app
 
 Copilot for Dynamics 365 is like having a helpful AI sidekick for your business. It helps sales, supply chain management, finance, and other teams to work better and faster. With a chat interface, it gives quick summaries of sales and account-related news. You can use it with Outlook and Excel for smoother data management and tap into its AI powers to summarize records and create email content. 
 
