@@ -7,8 +7,8 @@ The choice of a robust business process library can shape the entire implementat
 
 ## Business process modeler (BPM)
 The Business Process Modeler (BPM) provided by Microsoft Dynamics Lifecycle Services (LCS) is an invaluable tool for identifying differences between standard company processes and how the system works. With BPM, you can conduct a fit-gap analysis between your business requirements and the default processes, as well as introduce new business processes that are not already defined. Empower yourself to optimize your system and streamline your processes with the help of BPM.
-
-Learn the end-to-end scenarios and [business processes that Dynamics 365 supports out-of-the-box](https://learn.microsoft.com/en-us/dynamics365/guidance/business-processes/).
+// Learn the end-to-end scenarios and [business processes that Dynamics 365 supports out-of-the-box](https://learn.microsoft.com/en-us/dynamics365/guidance/business-processes/).
+//
 
 ## Initiate
 You have the option to begin your project with a pre-existing library of processes or create a new library from scratch. Creating a new library can be made faster by organizing it in Excel and importing it.
